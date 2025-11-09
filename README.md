@@ -1,3 +1,6 @@
 <p align="center">
-  <img src="./assets/animated.gif" align="center" width="90%" />
+  <img src="./assets/animate.gif" align="center" alt="Bin Recon" width="100%">
+</p>
+<p align="center">
+  <img src="./assets/animated.gif" align="center" alt="Bin Recon" width="100%" />
 </p>
