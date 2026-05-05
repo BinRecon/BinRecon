@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/animate.gif" align="center" alt="Bin Recon" width="100%">
-</p>
+</p> -->
 <p align="center">
   <img src="./assets/animated.gif" align="center" alt="Bin Recon" width="100%" />
 </p>
